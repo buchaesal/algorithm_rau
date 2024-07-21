@@ -1,4 +1,4 @@
-package yu;
+package naproxen;
 
 public class Test {
     public static void main(String[] args) {
